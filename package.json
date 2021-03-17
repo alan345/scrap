@@ -1,0 +1,21 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alan345/scrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alan345/scrap/issues"
+  },
+  "homepage": "https://github.com/alan345/scrap#readme"
+}
